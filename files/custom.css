@@ -1,7 +1,4 @@
-/******************************************************************************************************************/
-/* IVOR | Personal Portfolio Template                                                                             */
-/* (c) 2017 Rene Puchinger                                                                                        */
-/******************************************************************************************************************/
+
 /* STYLES                                                                                                         */
 /* Contents:                                                                                                      */
 /*  - GENERAL TEMPLATE STYLES                                                                                     */
@@ -17,13 +14,6 @@
 /*  - SUBSCRIBE FORM                                                                                              */
 /*  - CONTACT FORM                                                                                                */
 /*  - FOOTER                                                                                                      */
-/*                                                                                                                */
-/*  - BLOG POST                                                                                                   */
-/*  - BLOG PAGE                                                                                                   */
-
-/******************************************************************************************************************/
-/** GENERAL TEMPLATE STYLES                                                                                       */
-/******************************************************************************************************************/
 
 html {
     overflow-x: hidden;
@@ -399,7 +389,7 @@ nav ul li {
 
   background-image:
         linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),        
-         url("C:/Users/user/Desktop/files/jm.jpg");
+         url("https://github.com/prashantchordia1999/Prashant-Chordia/blob/master/files/jm.jpg");
 
     background-size: cover;
     width:100%;
@@ -709,7 +699,7 @@ nav ul li {
 
   background-image:
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),        
-         url("‪C:/Users/user/Desktop/1st Project Successeful/files/bg.jpg");
+         url("https://raw.githubusercontent.com/prashantchordia1999/Prashant-Chordia/master/files/bg.jpg");
 
     background-size: cover;
 
